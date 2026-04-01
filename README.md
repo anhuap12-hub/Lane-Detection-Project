@@ -22,8 +22,8 @@ The goal is to develop a robust system capable of identifying and tracking road 
 - `Lane_detection_yolov8.ipynb`: Advanced implementation using YOLOv8.
 
 ## 🔗 Notebook Links
-* [View YOLOv5 on Colab](https://colab.research.google.com/drive/1wq1dUSoT6KOhN5qiMvkUTtMjLWdbsYhN?usp=sharing)
-* [View YOLOv8 on Colab](https://colab.research.google.com/drive/1P-Oh8P95m5VDjj7Z9Udya5vCWj32c0wO?usp=sharing)
+* [View YOLOv8 on Colab](https://colab.research.google.com/drive/1wq1dUSoT6KOhN5qiMvkUTtMjLWdbsYhN?usp=sharing)
+* [View YOLOv5 on Colab](https://colab.research.google.com/drive/1P-Oh8P95m5VDjj7Z9Udya5vCWj32c0wO?usp=sharing)
 
 ---
 Developed by **Nguyễn Hoàng Anh** - Final year student at **ICTU**
